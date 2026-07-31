@@ -20,6 +20,15 @@ Test builds where the point is the measurement, not the demo.
 
 ---
 
+### Upstream
+
+[**FUXA #2478**](https://github.com/frangoteam/FUXA/pull/2478) — a one-line null guard in the client
+script service. `getClientAccess()` can return `null`, and the call site dereferenced it unguarded,
+which aborted the HMI load before any gauge bound while the SVG still rendered — so it looked like a
+binding problem rather than an exception. Found the hard way while building `scada-zero`.
+
+---
+
 ### Writing
 
 <!-- posts:start -->
