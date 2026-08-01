@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
+- [I gave Claude a live Modbus device](https://aradhs.com/lab/modbus-copilot) <sub>31 Jul 2026 · lab</sub>
 - [Every tag needs one owner](https://aradhs.com/blog/single-source-of-truth-scada) <sub>30 Jul 2026</sub>
 - [A complete SCADA system for nothing, and what that says about where the money was](https://aradhs.com/lab/scada-zero) <sub>30 Jul 2026 · lab</sub>
 - [The plant should still let you in when the link is down](https://aradhs.com/blog/ot-single-sign-on-offline) <sub>29 Jul 2026</sub>
 - [I never typed a single tag name: the SCADA built its own database](https://aradhs.com/lab/sparkplug-b-node-red) <sub>29 Jul 2026 · lab</sub>
-- [You don't have a backup problem. You have a reproducibility problem.](https://aradhs.com/blog/scada-reproducibility-problem) <sub>28 Jul 2026</sub>
 <!-- posts:end -->
 
 ---
