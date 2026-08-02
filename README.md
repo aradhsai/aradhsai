@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
+- [Industrial AI doesn't need better models. It needs DevOps and DataOps.](https://aradhs.com/blog/devops-dataops-industrial-ai) <sub>2 Aug 2026</sub>
+- [Does your plant need a whole layer just for context? I tested HighByte to find out](https://aradhs.com/lab/highbyte-dataops) <sub>1 Aug 2026 · lab</sub>
 - [I gave Claude a live Modbus device](https://aradhs.com/lab/modbus-copilot) <sub>31 Jul 2026 · lab</sub>
 - [Every tag needs one owner](https://aradhs.com/blog/single-source-of-truth-scada) <sub>30 Jul 2026</sub>
 - [A complete SCADA system for nothing, and what that says about where the money was](https://aradhs.com/lab/scada-zero) <sub>30 Jul 2026 · lab</sub>
-- [The plant should still let you in when the link is down](https://aradhs.com/blog/ot-single-sign-on-offline) <sub>29 Jul 2026</sub>
-- [I never typed a single tag name: the SCADA built its own database](https://aradhs.com/lab/sparkplug-b-node-red) <sub>29 Jul 2026 · lab</sub>
 <!-- posts:end -->
 
 ---
