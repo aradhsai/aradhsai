@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
+- [United Manufacturing Hub, explained for the person who has to maintain it](https://aradhs.com/blog/what-is-united-manufacturing-hub) <sub>3 Aug 2026</sub>
 - [Industrial AI doesn't need better models. It needs DevOps and DataOps.](https://aradhs.com/blog/devops-dataops-industrial-ai) <sub>2 Aug 2026</sub>
+- [I gave Claude a Unified Namespace. It knew everything and understood nothing.](https://aradhs.com/lab/unified-namespace-mcp) <sub>2 Aug 2026 · lab</sub>
 - [Does your plant need a whole layer just for context? I tested HighByte to find out](https://aradhs.com/lab/highbyte-dataops) <sub>1 Aug 2026 · lab</sub>
 - [I gave Claude a live Modbus device](https://aradhs.com/lab/modbus-copilot) <sub>31 Jul 2026 · lab</sub>
-- [Every tag needs one owner](https://aradhs.com/blog/single-source-of-truth-scada) <sub>30 Jul 2026</sub>
-- [A complete SCADA system for nothing, and what that says about where the money was](https://aradhs.com/lab/scada-zero) <sub>30 Jul 2026 · lab</sub>
 <!-- posts:end -->
 
 ---
