@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
-- [United Manufacturing Hub, explained for the person who has to maintain it](https://aradhs.com/blog/what-is-united-manufacturing-hub) <sub>3 Aug 2026</sub>
-- [Industrial AI doesn't need better models. It needs DevOps and DataOps.](https://aradhs.com/blog/devops-dataops-industrial-ai) <sub>2 Aug 2026</sub>
-- [I gave Claude a Unified Namespace. It knew everything and understood nothing.](https://aradhs.com/lab/unified-namespace-mcp) <sub>2 Aug 2026 · lab</sub>
-- [Does your plant need a whole layer just for context? I tested HighByte to find out](https://aradhs.com/lab/highbyte-dataops) <sub>1 Aug 2026 · lab</sub>
-- [I gave Claude a live Modbus device](https://aradhs.com/lab/modbus-copilot) <sub>31 Jul 2026 · lab</sub>
+- [Node-RED didn't break at 20,000 messages a second. It broke when the database did.](https://aradhs.com/blog/replacing-node-red-with-redpanda-connect) <sub>4 Aug 2026</sub>
+- [The same plant pipeline, built twice: Node-RED against Redpanda Connect](https://aradhs.com/lab/redpanda-connect-vs-node-red) <sub>4 Aug 2026 · lab</sub>
+- [ClickHouse or TimescaleDB for a plant historian? It depends which question your plant asks](https://aradhs.com/blog/clickhouse-vs-timescaledb-historian) <sub>3 Aug 2026</sub>
+- [Ignition 8.3 speaks Kafka now, which deletes the middle of your architecture drawing](https://aradhs.com/blog/ignition-redpanda-kubernetes) <sub>3 Aug 2026</sub>
+- [One hundred remote sites, one small broker, and the wrong answer I nearly published](https://aradhs.com/blog/one-cluster-hundred-sites) <sub>3 Aug 2026</sub>
 <!-- posts:end -->
 
 ---
