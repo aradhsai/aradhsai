@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
+- [Ignition 8.3 can now do the job of the box in the middle of your drawing](https://aradhs.com/blog/ignition-redpanda-kubernetes) <sub>6 Aug 2026</sub>
+- [Ignition and Redpanda on the same cluster, and the module that deletes the bridge](https://aradhs.com/lab/ignition-redpanda-on-k3s) <sub>6 Aug 2026 · lab</sub>
+- [I built a Unified Namespace myself. A third of the plant was invisible.](https://aradhs.com/blog/unified-namespace-from-scratch) <sub>5 Aug 2026</sub>
+- [A Unified Namespace built from parts, to find out which part is the product](https://aradhs.com/lab/uns-from-parts) <sub>5 Aug 2026 · lab</sub>
 - [Node-RED didn't break at 20,000 messages a second. It broke when the database did.](https://aradhs.com/blog/replacing-node-red-with-redpanda-connect) <sub>4 Aug 2026</sub>
-- [The same plant pipeline, built twice: Node-RED against Redpanda Connect](https://aradhs.com/lab/redpanda-connect-vs-node-red) <sub>4 Aug 2026 · lab</sub>
-- [ClickHouse or TimescaleDB for a plant historian? It depends which question your plant asks](https://aradhs.com/blog/clickhouse-vs-timescaledb-historian) <sub>3 Aug 2026</sub>
-- [Ignition 8.3 speaks Kafka now, which deletes the middle of your architecture drawing](https://aradhs.com/blog/ignition-redpanda-kubernetes) <sub>3 Aug 2026</sub>
-- [One hundred remote sites, one small broker, and the wrong answer I nearly published](https://aradhs.com/blog/one-cluster-hundred-sites) <sub>3 Aug 2026</sub>
 <!-- posts:end -->
 
 ---
