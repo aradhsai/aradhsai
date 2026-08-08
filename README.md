@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
+- [I switched off every part of a streaming plant pipeline. The data only died once.](https://aradhs.com/blog/the-historian-becomes-a-consumer) <sub>7 Aug 2026</sub>
+- [You don't buy a broker for the first consumer](https://aradhs.com/blog/why-redpanda-on-the-plant-floor) <sub>7 Aug 2026</sub>
+- [Event Streams to TimescaleDB: the config recipe, five silent failures, and a loss-accounted kill battery](https://aradhs.com/lab/event-streams-to-timescaledb) <sub>7 Aug 2026 · lab</sub>
 - [Certified is not secure](https://aradhs.com/blog/certified-is-not-secure) <sub>6 Aug 2026</sub>
 - [Ignition 8.3 can now do the job of the box in the middle of your drawing](https://aradhs.com/blog/ignition-redpanda-kubernetes) <sub>6 Aug 2026</sub>
-- [Your namespace is a floor plan](https://aradhs.com/blog/namespace-floor-plan) <sub>6 Aug 2026</sub>
-- [Scoring five industrial protocols against the 62443 foundational requirements](https://aradhs.com/lab/62443-scorecard) <sub>6 Aug 2026 · lab</sub>
-- [Ignition and Redpanda on the same cluster, and the module that deletes the bridge](https://aradhs.com/lab/ignition-redpanda-on-k3s) <sub>6 Aug 2026 · lab</sub>
 <!-- posts:end -->
 
 ---
