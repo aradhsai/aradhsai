@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
+- [I killed the master gateway. The screens came back in eight seconds and the data never did.](https://aradhs.com/blog/the-failover-that-moved-screens-not-data) <sub>10 Aug 2026</sub>
+- [Three sites into a redundant pair: a kill battery, and the one connection that pointed the wrong way](https://aradhs.com/lab/edge-first-estate) <sub>10 Aug 2026 · lab</sub>
 - [I switched off every part of a streaming plant pipeline. The data only died once.](https://aradhs.com/blog/the-historian-becomes-a-consumer) <sub>7 Aug 2026</sub>
 - [You don't buy a broker for the first consumer](https://aradhs.com/blog/why-redpanda-on-the-plant-floor) <sub>7 Aug 2026</sub>
 - [Event Streams to TimescaleDB: the config recipe, five silent failures, and a loss-accounted kill battery](https://aradhs.com/lab/event-streams-to-timescaledb) <sub>7 Aug 2026 · lab</sub>
-- [Certified is not secure](https://aradhs.com/blog/certified-is-not-secure) <sub>6 Aug 2026</sub>
-- [Ignition 8.3 can now do the job of the box in the middle of your drawing](https://aradhs.com/blog/ignition-redpanda-kubernetes) <sub>6 Aug 2026</sub>
 <!-- posts:end -->
 
 ---
