@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
+- [A conduit is not a cable](https://aradhs.com/blog/a-conduit-is-not-a-cable) <sub>17 Aug 2026</sub>
 - [Why nobody actually segments the plant network](https://aradhs.com/blog/reference-model-arrow-backwards) <sub>16 Aug 2026</sub>
 - [Twenty-one hours of plant traffic, and the segmentation policy it implies](https://aradhs.com/lab/segmenting-by-measurement) <sub>16 Aug 2026 · lab</sub>
 - [My resilience test passed perfectly. It had not tested anything.](https://aradhs.com/blog/the-test-that-proved-nothing) <sub>13 Aug 2026</sub>
 - [A site lost its link for two minutes. Those readings are never coming back.](https://aradhs.com/blog/what-a-wan-cut-actually-costs) <sub>12 Aug 2026</sub>
-- [Half your sites have nobody looking at a screen. They still have a SCADA licence.](https://aradhs.com/blog/paying-scada-licences-to-move-bytes) <sub>11 Aug 2026</sub>
 <!-- posts:end -->
 
 ---
