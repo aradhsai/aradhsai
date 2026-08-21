@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
+- [Your timestamps came from two different clocks](https://aradhs.com/blog/what-happened-first) <sub>20 Aug 2026</sub>
+- [Measuring which clock stamped each row, on two paths into the same historian](https://aradhs.com/lab/whose-clock-stamped-the-row) <sub>20 Aug 2026 · lab</sub>
 - [Your historian believes whatever it is told](https://aradhs.com/blog/historian-believes-what-its-told) <sub>19 Aug 2026</sub>
 - [Four paths into one historian, and what each one remembers about where the data came from](https://aradhs.com/lab/provenance-across-a-plant) <sub>19 Aug 2026 · lab</sub>
-- [A conduit is not a cable](https://aradhs.com/blog/a-conduit-is-not-a-cable) <sub>17 Aug 2026</sub>
-- [Why nobody actually segments the plant network](https://aradhs.com/blog/reference-model-arrow-backwards) <sub>16 Aug 2026</sub>
-- [Twenty-one hours of plant traffic, and the segmentation policy it implies](https://aradhs.com/lab/segmenting-by-measurement) <sub>16 Aug 2026 · lab</sub>
+- [The plant needs to agree what time it is](https://aradhs.com/blog/the-plant-needs-to-agree-what-time-it-is) <sub>18 Aug 2026</sub>
 <!-- posts:end -->
 
 ---
