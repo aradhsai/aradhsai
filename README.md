@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
+- [A restore is not a rehearsal](https://aradhs.com/blog/a-restore-is-not-a-rehearsal) <sub>30 Aug 2026</sub>
+- [What a gateway backup actually restores](https://aradhs.com/lab/what-a-gateway-backup-restores) <sub>30 Aug 2026 · lab</sub>
 - [Only what somebody wrote down gets checked](https://aradhs.com/blog/only-what-somebody-wrote-down) <sub>25 Aug 2026</sub>
 - [What drift detection actually catches: three tiers on a small estate](https://aradhs.com/lab/three-tiers-of-drift) <sub>25 Aug 2026 · lab</sub>
 - [Your air gap has a vendor login](https://aradhs.com/blog/your-air-gap-has-a-vendor-login) <sub>22 Aug 2026</sub>
-- [Your timestamps came from two different clocks](https://aradhs.com/blog/what-happened-first) <sub>20 Aug 2026</sub>
-- [Measuring which clock stamped each row, on two paths into the same historian](https://aradhs.com/lab/whose-clock-stamped-the-row) <sub>20 Aug 2026 · lab</sub>
 <!-- posts:end -->
 
 ---
