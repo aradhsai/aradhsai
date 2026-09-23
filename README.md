@@ -32,11 +32,11 @@ binding problem rather than an exception. Found the hard way while building `sca
 ### Writing
 
 <!-- posts:start -->
+- [Your plant has been observable for decades. The software carrying it hasn't.](https://aradhs.com/blog/your-plant-has-been-observable-for-decades) <sub>23 Sept 2026</sub>
 - [When did your backup link last carry the plant?](https://aradhs.com/blog/when-did-your-backup-link-last-carry-the-plant) <sub>14 Sept 2026</sub>
 - [One firewall is not segmentation](https://aradhs.com/blog/one-firewall-is-not-segmentation) <sub>10 Sept 2026</sub>
 - [Nothing was wrong with the configuration](https://aradhs.com/blog/nothing-was-wrong-with-the-configuration) <sub>7 Sept 2026</sub>
 - [They didn't turn anything off. They edited the logic and the screen.](https://aradhs.com/blog/they-didnt-turn-anything-off) <sub>4 Sept 2026</sub>
-- [The tunnel was never the hard part](https://aradhs.com/blog/the-tunnel-was-never-the-hard-part) <sub>3 Sept 2026</sub>
 <!-- posts:end -->
 
 ---
